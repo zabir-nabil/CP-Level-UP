@@ -1,6 +1,6 @@
 --------------------------------------C------------------------------
 1) 489C (Greedy) -> some tricky cases
-
+2) 446C (Cumulative Sum, Observation)
 
 
 
