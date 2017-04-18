@@ -1,1 +1,2 @@
 1) 339D (Classic Segment tree) Things to look for -> tree[b] = ...; instead of tree[root] = .....;
+2) 357C (set + erase vector n*log(n))

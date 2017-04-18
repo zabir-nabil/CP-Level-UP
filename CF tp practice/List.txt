@@ -1,7 +1,7 @@
 --------------------------------------C------------------------------
 1) 489C (Greedy) -> some tricky cases
 2) 446C (Cumulative Sum, Observation)
-
+3) 357C (set + erase vector n*log(n))
 
 
 
