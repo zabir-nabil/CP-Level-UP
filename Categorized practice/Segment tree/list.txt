@@ -1,0 +1,1 @@
+1) 339D (Classic Segment tree) Things to look for -> tree[b] = ...; instead of tree[root] = .....;
