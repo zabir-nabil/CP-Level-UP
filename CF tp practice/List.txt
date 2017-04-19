@@ -19,3 +19,5 @@
 
 -------------------------------------D--------------------------------
 1) 339D (Classic Segment tree) Things to look for -> tree[b] = ...; instead of tree[root] = .....;
+
+2) 61E (See if you need how many elements are lower or equal than a given value for a property, try BIT if it fits)
