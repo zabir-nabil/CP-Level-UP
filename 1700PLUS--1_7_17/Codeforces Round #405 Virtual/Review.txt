@@ -1,0 +1,8 @@
+1) Spent too time solving B, should have solved faster.
+2) C was very easy concept, I unnecessarily complicated it, and wasted almost 1 hour and 200 position.
+3) Relative improvement in position.
+
+
+Todo task:
+
+Centroid decomposition
