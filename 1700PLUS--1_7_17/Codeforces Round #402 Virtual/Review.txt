@@ -1,0 +1,3 @@
+1) Took too much time to solve A.
+2) Was not thinking right in problem C, coded a complete DP solution just for finding out it won't even give correct ans for first test case.
+3) Struggled a lot for D, was an easy binary search problem. But when called can() the main string was already modified, didn't make a temporary copy, be careful when you are modifying global data/string/array in a temporary function.
