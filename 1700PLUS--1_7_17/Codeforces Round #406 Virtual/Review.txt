@@ -1,0 +1,6 @@
+1) A was a bit tricky, intersection of two arithmetic progression.
+2) Found solution for B fast, but made a silly mistake.
+3) C is a legendary problem. WILL SOLVE SOON.
+
+Todo-
+#C
